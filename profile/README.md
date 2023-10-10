@@ -2,6 +2,8 @@
 
 This organization contains repos for the [Dredge](https://store.steampowered.com/app/1562430/DREDGE/) modding infrastructure. 
 
+To create your own mod using this infrastructure, check out the [Winch mod template](https://github.com/DREDGE-Mods/WinchModTemplate).
+
 ## Infrastructure
 
 - The [mod database](https://github.com/DREDGE-Mods/DredgeModDatabase) is where modders can submit new mods to be displayed on the website and made available on the mod manager. 
