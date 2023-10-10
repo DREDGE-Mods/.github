@@ -19,5 +19,4 @@ Using this, DREDGE mods can take advantage of automatic building in GitHub actio
 - The [branch watcher](https://github.com/DREDGE-Mods/DredgeBranchWatcher) monitors the branches for DREDGE on Steam and reports any updates to the modding community Discord.
 
 ## Winch Mod Loader
-
-The infrastructure here all makes use of the [Winch](https://github.com/Hacktix/Winch) mod loader created by [Hacktix](https://github.com/Hacktix)
+The infrastructure here all makes use of a modified version of the [Winch](https://github.com/DREDGE-Mods/Winch) mod loader created by [Hacktix](https://github.com/Hacktix)
