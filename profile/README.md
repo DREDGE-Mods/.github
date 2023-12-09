@@ -22,3 +22,6 @@ Using this, DREDGE mods can take advantage of automatic building in GitHub actio
 
 ## Winch Mod Loader
 The infrastructure here all makes use of a modified version of the [Winch](https://github.com/DREDGE-Mods/Winch) mod loader created by [Hacktix](https://github.com/Hacktix)
+
+## Thanks
+The modding infrastructure is closely based on that for [Outer Wilds](https://github.com/ow-mods), big thanks to [Bwc9876](https://github.com/Bwc9876) and [Raicuparta](https://github.com/Raicuparta) in particular for their help and ~~code that I stole~~.
