@@ -14,7 +14,7 @@ The database itself is a single file with pertinent mod info which is updated pe
 - The [mod manager](https://github.com/DREDGE-Mods/DredgeModManager) is an application which can install, update, and enable mods from the database.
 
 - The [game libraries](https://github.com/DREDGE-Mods/DredgeGameLibs) publishes stripped and publicized game libraries from DREDGE to a Nuget package. 
-Using this, DREDGE mods can take advantage of automatic building in GitHub actions, and modders can access private fields/properties/methods without needing to use reflection.
+Using this, DREDGE mods can take advantage of automatic building in GitHub actions, and modders can access private fields/properties/methods without needing to use reflection. NOTE: If you're just making mods, don't worry about this repo! The template above is already set up to use the stripped and publicized code produced by this.
 
 ## Community
 
