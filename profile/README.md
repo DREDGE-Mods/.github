@@ -16,6 +16,8 @@ The database itself is a single file with pertinent mod info which is updated pe
 - The [game libraries](https://github.com/DREDGE-Mods/DredgeGameLibs) publishes stripped and publicized game libraries from DREDGE to a Nuget package. 
 Using this, DREDGE mods can take advantage of automatic building in GitHub actions, and modders can access private fields/properties/methods without needing to use reflection. NOTE: If you're just making mods, don't worry about this repo! The template above is already set up to use the stripped and publicized code produced by this.
 
+- The [download tracker](https://github.com/DREDGE-Mods/DredgeModDownloadTracker) that periodically reads the database to keep track of mod downloads over time, which is then shown on the website.
+
 ## Community
 
 - The [branch watcher](https://github.com/DREDGE-Mods/DredgeBranchWatcher) monitors the branches for DREDGE on Steam and reports any updates to the modding community Discord.
